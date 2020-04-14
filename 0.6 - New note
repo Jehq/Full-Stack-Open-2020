@@ -1,0 +1,8 @@
+browser->server: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
+
+note over server:
+event handler prevents defaults
+handling of form submit, creates
+new note, adds note to note list,
+renders note list and sends note 
+to the server.
